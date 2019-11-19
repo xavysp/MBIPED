@@ -1,7 +1,7 @@
 # MBIPED
 Barcelona Images for Perceptual Edge Detection (BIPED) Dataset---descriptions
 
-<div style="text-align:center"><img src='figs/biped_banner.png' width=800>
+<div style="text-align:center"><img src='figs/BIPED_banner.png' width=800>
 
 ```diff
 - Sorry for any inconvenience, this page is in construction
