@@ -21,5 +21,16 @@ This Dataset is made freely available to academic and non-academic entities for 
 
 If you need more information, [Dont hesitate and contact me :)](https://xavysp.github.io)
 
+# Citation
+Please cite our dataset if you find helpful,
+```
+@InProceedings{soria2020dexined,
+    title={Dense Extreme Inception Network: Towards a Robust CNN Model for Edge Detection},
+    author={Xavier Soria and Edgar Riba and Angel Sappa},
+    booktitle={The IEEE Winter Conference on Applications of Computer Vision (WACV '20)},
+    year={2020}
+}
+```
+
 # Acknowledgement
 
