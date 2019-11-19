@@ -10,7 +10,7 @@ BIPED dataset has 250 images in high definition (1280x720). Thoses images are al
 # BIPED Data Augmentation
 Once the dataset is downloaded and un-compresed, use data_augmentation.py to augment the dataas follow:
 
-  python data_augmentation.py
+    python data_augmentation.py
 
 
 
