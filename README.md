@@ -18,4 +18,4 @@ Once the dataset is downloaded and un-compresed, use data_augmentation.py to aug
 
 # License
 
-This Cityscapes Dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree to our license terms. However, if any of our images are infringing any privacy or rights, help free to contact us and we will remove immediately
+This Dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree to our license terms. However, if any of our images are infringing any privacy or rights, help free to contact us and we will remove immediately
