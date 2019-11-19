@@ -1,4 +1,4 @@
-# MBIPED
+# BIPED
 Barcelona Images for Perceptual Edge Detection (BIPED) Dataset---descriptions
 
 ![useful image](/figs/BIPED_banner.png)
