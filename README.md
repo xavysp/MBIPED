@@ -1,7 +1,7 @@
 # MBIPED
 Barcelona Images for Perceptual Edge Detection (BIPED) Dataset---descriptions
 
-<div style="text-align:center"><img src='figs/BIPED_banner.png' width=800>
+<!-- <div style="text-align:center"><img src='figs/BIPED_banner.png' width=800>-->
 
 BIPED dataset has 250 images in high definition (1280x720). Thoses images are already split up for training and testing. 200 for training and 50 for testing.
 
