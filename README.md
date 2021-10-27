@@ -2,7 +2,8 @@
 Barcelona Images for Perceptual Edge Detection (BIPED) Dataset---descriptions.
 
 ```diff 
-    We are in the second version of BIPED, termed as BIPEDv2 (This is the ultimate version of BIPED). We stronglly suggest this last version.
+    We are in the second version of BIPED, termed as BIPEDv2 (This is the ultimate version of BIPED).
+    We strongly suggest this last version.
 ```
 
 ![useful image](/figs/BIPED_banner.png)
