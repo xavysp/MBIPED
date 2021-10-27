@@ -1,5 +1,9 @@
 # BIPED
-Barcelona Images for Perceptual Edge Detection (BIPED) Dataset---descriptions
+Barcelona Images for Perceptual Edge Detection (BIPED) Dataset---descriptions.
+
+```diff 
+    We are in the second version of BIPED, termed as BIPEDv2 (This is the ultimate version of BIPED). We stronglly suggest this last version.
+```
 
 ![useful image](/figs/BIPED_banner.png)
 
@@ -10,7 +14,7 @@ It contains 250 outdoor images of 1280$\times$720 pixels each. These images have
 BIPED dataset has 250 images in high definition. Thoses images are already split up for training and testing. 200 for training and 50 for testing.
 
 
-[Download BIPED dataset here](https://drive.google.com/file/d/1l9cUbNK7CgpUsWYInce-djJQp-FyY5DO/view?usp=sharing)
+[Download BIPED dataset here](https://drive.google.com/drive/folders/1lZuvJxL4dvhVGgiITmZsjUJPBBrFI_bM?usp=sharing)
 
 # BIPED Data Augmentation
 
