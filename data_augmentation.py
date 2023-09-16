@@ -618,11 +618,12 @@ def gamma_data(data_dir,augment_both=True, in_gt=False):
 
     cv.destroyAllWindows()
 
-    print("... gamma correction  data augmentation finished")
+    print("... gamma correction:  data augmentation terminated")
 
 #  main tool for dataset augmentation
 def augment_data(base_dir,augment_both, use_all_type=True):
-    """ BIPED dataset augmentation
+    """ BIPED dataset augmentation with the last updates in
+    LDC and TEED models
 
     :param base_dir: The directory where the BIPED dataset is
     :param augment_both:  True to augment two data at the same time Input and target

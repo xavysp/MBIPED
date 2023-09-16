@@ -19,11 +19,19 @@ BIPED dataset has 250 images in high definition. Thoses images are already split
 
 # BIPED Data Augmentation
 
-Once the dataset is downloaded and un-compresed, use main.py to augment BIPED images as suggest in [DexiNed paper](https://arxiv.org/pdf/1909.01955.pdf) as follow:
+Once the dataset, [BIPEDv2](https://www.kaggle.com/datasets/xavysp/biped?select=BIPEDv2) is downloaded and unzipped, 
+use main.py to augment BIPED images as suggest in [DexiNed paper](https://arxiv.org/pdf/1909.01955.pdf),
+when the augmentation process is done your file with the list of augmentation
+is also created, train_pair.lst, so you just make the following
+changes then.
+```
+#  put "/home/user_name/datasets"
+BIPED_main_dir ="/home/user_name/datasets"
 
     python main.py
 
-Set main.py before running
+```
+
 
 # License
 
