@@ -48,7 +48,7 @@ def list_data(base_dirs=None,data_name="BIPED", simple_list=False):
                      os.path.join(gt_base_dir + '/' + dir_name + '/' + file_name + '.png'),))
     # save files
 
-    save_path = os.path.join(save_file, 't_pair.lst')
+    save_path = os.path.join(save_file, 'train_pair.lst')
     with open(save_path, 'w') as txtfile:
         json.dump(files_idcs, txtfile)
 
