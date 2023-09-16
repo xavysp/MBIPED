@@ -25,8 +25,9 @@ when the augmentation process is done your file with the list of augmentation
 is also created, train_pair.lst, so you just make the following
 changes then.
 ```
-#  put "/home/user_name/datasets"
-BIPED_main_dir ="/home/user_name/datasets"
+# For example if BIPED dir is in /home/user_name/datasets/BIPED
+# put "/home/user_name/datasets"
+BIPED_main_dir = "/home/user_name/datasets"
 
     python main.py
 
