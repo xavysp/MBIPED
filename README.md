@@ -51,6 +51,22 @@ Please cite our dataset if you find helpful,
 }
 ```
 
+The extended version and BIPEDv2:
+```
+@article{soria2023dexined_ext,
+title = {Dense extreme inception network for edge detection},
+journal = {Pattern Recognition},
+volume = {139},
+pages = {109461},
+year = {2023},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2023.109461},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320323001619},
+author = {Xavier Soria and Angel Sappa and Patricio Humanante and Arash Akbarinia},
+keywords = {Edge detection, Deep learning, CNN, Contour detection, Boundary detection, Segmentation}
+}
+```
+
 # Acknowledgement
 
 
